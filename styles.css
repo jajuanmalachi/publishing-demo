@@ -1,0 +1,47 @@
+body {
+  font-family:sans-serif;
+
+}
+
+/* .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+/* #headline {
+    margin-left: auto;
+    margin-right: auto;
+    width: 17em; */
+p{
+  font-size:16px
+
+figure {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:700px
+  }
+
+
+li{
+   font-size:14px
+  }
+
+.center{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:700px
+}
+
+img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+    width: 50%;
+    max-width: 500px;
+}
+
+/* div.background-text-box {} */
+p {color: grey
+  text-decoration:none;}
